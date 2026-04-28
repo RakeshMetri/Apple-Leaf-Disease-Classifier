@@ -1,0 +1,1 @@
+Developed a CNN-based classification pipeline with data preprocessing and augmentation, achieving 84% training accuracy, and conducted a comparative evaluation of pre-trained models (VGG19, ResNet50, InceptionV3, MobileNetV2, EfficientNetB0) to identify the optimal architecture.
